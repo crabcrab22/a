@@ -16,7 +16,8 @@ hahahaha你好你好
 
 今天天气真好
 
-搜索更多的鸡汤 [百度](https://baijiahao.baidu.com/s?id=1613117859260603370&wfr=spider&for=pc).
+搜索更多的鸡汤 [baidu](https://www.baidu.com/).
+
 
 
 # Header 1
